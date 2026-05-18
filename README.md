@@ -3,6 +3,10 @@
 A small GTK4/libadwaita update utility for Pop!_OS — designed to fill the gap
 left by COSMIC alpha not yet shipping a graphical update manager.
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="Pop Updater main window" width="500">
+</p>
+
 ## What it does
 
 - Checks updates from every package manager you actually have installed:
