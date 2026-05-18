@@ -3,6 +3,10 @@
 A small GTK4/libadwaita update utility for Pop!_OS — designed to fill the gap
 left by COSMIC alpha not yet shipping a graphical update manager.
 
+> **Not affiliated with System76 or the Pop!_OS project.** This is an
+> unofficial community tool. "Pop!_OS" and "COSMIC" are trademarks of
+> System76; this project just runs on the OS.
+
 <p align="center">
   <img src="docs/screenshot.png" alt="Pop Updater main window" width="500">
 </p>

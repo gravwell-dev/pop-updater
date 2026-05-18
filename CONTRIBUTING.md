@@ -3,6 +3,9 @@
 Thanks for thinking about contributing — this is a small project, and small
 contributions are very welcome.
 
+> **Project status:** unofficial community tool. Not affiliated with
+> System76 or the Pop!_OS project.
+
 ## Reporting a bug
 
 Open an issue at https://github.com/gravwell-dev/pop-updater/issues with:
